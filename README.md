@@ -2,6 +2,9 @@
 
 This Power BI dashboard provides a comprehensive analysis of sales performance, return reasons, and product category insights across regions and time.
 
+<img width="1385" height="764" alt="image" src="https://github.com/user-attachments/assets/a785fa72-4893-42f1-8f5e-fcb8dac5ebf9" />
+
+
 ## 📌 Overview
 - **Total Sales:** 48.70K
 - **Total Returns:** 12.55K
