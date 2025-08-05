@@ -29,6 +29,8 @@ This Power BI dashboard provides a comprehensive analysis of sales performance, 
 ## 🧾 Files Included
 - `Summary_Report_Page.png` – Final dashboard export
 - `README.md` – This documentation file
+- Sales Vs Return Sales.pbix - Main Power BI Dashboard
+  
 
 ## 🚀 How to Use
 1. Download the `.pbix` file or view the image summary.
